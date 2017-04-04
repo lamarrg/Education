@@ -1,4 +1,7 @@
-# Education
-learning materials
+# Cypher
 
-This repository is for educational items that are not large enough to have their own project, to show something I have learned, or to illustrate some issues I may be having with the material.
+This item is from edX, [Using Python for Research] (https://www.edx.org/course/using-python-research-harvardx-ph526x).
+
+It is the homework three, a case study of how to convert data for DNA research. 
+
+My code works, it gets the same result that they request, it just does it in a different way. 
