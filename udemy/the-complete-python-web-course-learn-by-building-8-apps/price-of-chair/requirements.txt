@@ -1,0 +1,4 @@
+# built with python 3.6
+
+requests==2.7.0
+beautifulsoup4==4.4.0
